@@ -1,0 +1,2 @@
+# codeql-study
+Temporary project
